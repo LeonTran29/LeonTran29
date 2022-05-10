@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeonTran29
-- 👀 I’m kinda interested in coding and data analyzing
+- 👀 I’m interested in coding and data analyzing
 - 🌱 I’m currently learning Python, SQL, Data Analyze.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You may reach me here https://www.linkedin.com/in/huytraan/
